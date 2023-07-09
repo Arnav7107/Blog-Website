@@ -8,7 +8,6 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
   res.send('About');
 });
-
 app.get('/createnew', (req, res) => {
   res.sendFile(path.resolve(__dirname, 'createnew.html'));
 });
