@@ -26,7 +26,6 @@ app.listen(3000, () => {
 
 
 
-
 // $(".post-wrapper").slick({
 //     slidesToShow: 3,
 //     slidesToScroll: 1,
